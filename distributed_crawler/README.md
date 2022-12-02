@@ -1,6 +1,6 @@
 
 ## Crawler architecture
-![alt text](https://github.com/ossama131/machine-learning-methods-for-sitemap-analysis-compression-classification/blob/main/distributed_crawler/distributed_crawler.PNG?raw=true)
+![alt text](https://github.com/ossama131/machine-learning-methods-for-sitemap-analysis-compression-classification/blob/main/resources/distributed_crawler.PNG?raw=true)
 
 ## Running the crawler
 #### Configurations
