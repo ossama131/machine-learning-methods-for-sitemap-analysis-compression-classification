@@ -20,6 +20,6 @@ Given a set of URLs, output regular expressions that describe different componen
         }
     }
 
-## Algorithm flowchart
+## Algorithm
 
-![Patterns generation flowchart](/flowchart.jpg)
+![alt text](https://github.com/ossama131/machine-learning-methods-for-sitemap-analysis-compression-classification/blob/main/resources/urls_pattern_analysis_algorithm.PNG?raw=true)
