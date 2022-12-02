@@ -1,4 +1,4 @@
-# urls-pattern-mining
+# urls-pattern-analysis
 
 Given a set of URLs, output regular expressions that describe different components of the URLs.
 
