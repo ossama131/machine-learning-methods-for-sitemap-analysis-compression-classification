@@ -1,0 +1,2 @@
+- `download_robotstxt_files.py`: downloads Robots.txt files from CommonCrawl AWS bucket
+- `extract_sitemap_pyspark.py`: Parse Robots.txt files using PySpark to extract Sitemap URLs.
